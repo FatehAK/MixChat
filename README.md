@@ -1,5 +1,5 @@
 # MixChat
-MixChat allows teams to communicate effectively through the client-server mechanism with built-in tools for reporting purposes. It is coded fully in Java with Swing GUI. The Apache POI libraries are for generating reports in MS Excel and Word document formats
+MixChat allows teams to communicate effectively through the client-server mechanism with built-in tools for reporting purposes. It is coded fully in Java with Swing GUI. The Apache POI libraries are for generating reports in MS Excel and Word document formats.
 
 ### Usage
 * Open the server jar file in one device.
